@@ -1,3 +1,5 @@
 bazel-*
 *.iml
 .idea
+.gradle
+build
